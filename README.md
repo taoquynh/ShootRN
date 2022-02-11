@@ -1,0 +1,2 @@
+# ShootRN
+- Uploaded to CHPlay
